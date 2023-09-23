@@ -1,5 +1,5 @@
 # Age-Calculator-Website
-A website in which the user enters his date of birth and it shown him how much years old he is!
+A website in which the user enters his date of birth and it shows him how much years old he is!
 
 Written in Html and Javascript. Styling: Css.
 
